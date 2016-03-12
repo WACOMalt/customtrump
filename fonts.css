@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'america';
+	src: url('fonts/america.eot');
+	src: local('☺'), url('fonts/america.woff') format('woff'), url('fonts/america.ttf') format('truetype'), url('fonts/america.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'trump';
+	src: url('fonts/trump.eot');
+	src: local('☺'), url('fonts/trump.woff') format('woff'), url('fonts/trump.ttf') format('truetype'), url('fonts/trump.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	letter-spacing: 20px;
+}
+
